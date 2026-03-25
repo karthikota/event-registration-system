@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Success</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+
+<body class="bg-clear d-flex justify-content-center align-items-center">
+
+<div class="card p-4 text-center shadow">
+
+<h2 class="text-success">Registration Successful!</h2>
+
+<p>Thank you <b>{{ name }}</b> for registering for <b>{{ event }}</b>.</p>
+
+<a href="/" class="btn btn-primary mt-3">Go Back</a>
+
+</div>
+
+</body>
+</html>
