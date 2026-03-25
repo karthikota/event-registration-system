@@ -1,6 +1,6 @@
 # 🎉 Event Registration System
 
-## 📌 Project Description
+##  Project Description
 
 This is a simple and functional **Event Registration System** built using Flask.
 It allows users to register for events through a web form and stores the data in a database.
@@ -8,18 +8,18 @@ An admin panel is provided to view all registered users.
 
 ---
 
-## 🚀 Features
+##  Features
 
-* 📝 Event registration form
-* ✅ Client-side validation using jQuery
-* 🖥 Backend processing using Flask
-* 💾 Data storage using SQLite
-* 📊 Admin dashboard to view registrations
-* 🎨 Clean UI using Bootstrap
+*  Event registration form
+*  Client-side validation using jQuery
+*  Backend processing using Flask
+*  Data storage using SQLite
+*  Admin dashboard to view registrations
+*  Clean UI using Bootstrap
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 * HTML5
 * Bootstrap 5
@@ -29,7 +29,7 @@ An admin panel is provided to view all registered users.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 event_project/
 │
@@ -48,7 +48,7 @@ event_project/
 
 ---
 
-## ▶️ How to Run the Project
+##  How to Run the Project
 
 1. Clone the repository:
    git clone https://github.com/YOUR_USERNAME/event-registration-system.git
@@ -67,7 +67,7 @@ event_project/
 
 ---
 
-## 🔐 Admin Panel
+##  Admin Panel
 
 To view registered users:
 http://127.0.0.1:5000/admin
@@ -76,7 +76,6 @@ http://127.0.0.1:5000/admin
 
 ## Screenshots
 <img width="1291" height="722" alt="image" src="https://github.com/user-attachments/assets/371e74d9-2cfa-4e31-9666-49ba820e832e" />
-
 <img width="1365" height="647" alt="image" src="https://github.com/user-attachments/assets/bffd72b4-21a1-4bff-a440-3f9bd44d4d40" />
 <img width="1289" height="718" alt="image" src="https://github.com/user-attachments/assets/515bbb6a-f4e5-4947-9e8a-fc9d3ad5998d" />
 
