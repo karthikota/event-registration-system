@@ -31,20 +31,8 @@ An admin panel is provided to view all registered users.
 
 ##  Project Structure
 
-event_project/
-│
-├── static/
-│   ├── css/style.css
-│   ├── js/script.js
-│   └── images/bg.jpg
-│
-├── templates/
-│   ├── index.html
-│   ├── success.html
-│   ├── admin.html
-│
-├── app.py
-├── requirements.txt
+<img width="172" height="280" alt="image" src="https://github.com/user-attachments/assets/8f8e00ce-98da-4ebe-b167-b0aceeb8f6ed" />
+
 
 ---
 
