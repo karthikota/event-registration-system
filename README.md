@@ -39,7 +39,7 @@ An admin panel is provided to view all registered users.
 ##  How to Run the Project
 
 1. Clone the repository:
-   git clone https://github.com/YOUR_USERNAME/event-registration-system.git
+   git clone https://github.com/karthikota/event-registration-system.git
 
 2. Navigate to project folder:
    cd event_project
